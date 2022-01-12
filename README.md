@@ -1,4 +1,10 @@
-### Hi there, my name is Godwin! 👨🏾‍💻
+Hi there, my name is Godwin! 👨🏾‍💻
+===
+
+I am currently learning React from [Scrimba](https://scrimba.com/learn/learnreact) with Bob Ziroll
+
+
+
 
 <!--
 **gmshiu/gmshiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
